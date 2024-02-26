@@ -1,10 +1,14 @@
-# Pirate Treasure Hunt: Mastermind Game
+# Pirate's Code: A Mastermind Game
 
-Ahoy, mateys! Welcome to the "Pirate Treasure Hunt," a thrilling twist on the classic Mastermind game. Set sail on a daring adventure across the seven seas, where you'll use your wit and cunning to crack the code and discover the hidden treasure. Are you ready to embark on this quest and claim the riches that await?
+Ahoy, mateys! Welcome to the "Pirate's Code'," a thrilling twist on the classic Mastermind game. Set sail on a daring adventure across the seven seas, where you'll use your wit and cunning to crack the code and discover the hidden treasure. Are you ready to embark on this quest and claim the riches that await?
 
 ## Game Overview
 
-"Pirate Treasure Hunt" is a web-based game developed using HTML, CSS, and JavaScript. Players are tasked with guessing the correct sequence of symbols (jewels, gold coins, keys, and compasses) to unlock the treasure chest. With each guess, you'll receive clues to how close you are to the treasure. But beware, matey, for only the sharpest of pirates will succeed before their attempts run out.
+"Pirate's Code" is a web-based game developed using HTML, CSS, and JavaScript. Players are tasked with guessing the correct sequence of symbols (jewels, gold coins, keys, and compasses) to unlock the treasure chest. With each guess, you'll receive clues to how close you are to the treasure. But beware, matey, for only the sharpest of pirates will succeed before their attempts run out.
+
+### Wireframe
+
+<img src="wireframe.png">
 
 ### Features (Coming soon!)
 
